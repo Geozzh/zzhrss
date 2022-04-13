@@ -1844,10 +1844,10 @@
   dependencies:
     "@types/node" "*"
 
-"@vercel/nft@0.17.4":
-  version "0.17.4"
-  resolved "https://registry.yarnpkg.com/@vercel/nft/-/nft-0.17.4.tgz#45545dae173f2362e21f49ae8b6a98c3c1fd9274"
-  integrity sha512-e6kF+V0FneWpEUQJOcLn25MxuaiI4E+L8mUI4aq5mwmqIPe8L5qWK34Y8UtbQFxe4DUo6BgjDUxFPssAd0WH6g==
+"@vercel/nft@0.18.2":
+  version "0.18.2"
+  resolved "https://registry.yarnpkg.com/@vercel/nft/-/nft-0.18.2.tgz#46ab17e1d631220bfc21c8fe299d10e36514e897"
+  integrity sha512-Oxy4y5JDh7CMbaxEGjKKzHcnQ1gRQqtfp+x3xvOmZYixXHwaD2RMJDTzaPz0b2B3pgVbbPOHY87wffJPFDaoFg==
   dependencies:
     "@mapbox/node-pre-gyp" "^1.0.5"
     acorn "^8.6.0"
